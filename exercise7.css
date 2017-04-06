@@ -11,9 +11,9 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'klinic_slablight';
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/klinics/klinicslablight-webfont.eot");
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/klinics/klinicslablight-webfont.eot?#iefix") format("embedded-opentype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/klinics/klinicslablight-webfont.woff") format("woff"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/klinics/klinicslablight-webfont.ttf") format("truetype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/klinics/klinicslablight-webfont.svg#klinic_slablight") format("svg");
+  font-family: 'old_wise_sketch';
+  src: url("old_wise_sketch.zipped");
+  src: url("Old_Wise_Sketch.otf") format("embedded-opentype"), url("Old Wish Sketch.pdf") format("truetype"), url("Old Wish Sketch.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
