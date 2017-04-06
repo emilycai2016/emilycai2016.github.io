@@ -1,16 +1,12 @@
 @import "compass/css3";
 
 @font-face {
-  font-family: 'haymakerregular';
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/haymaker/haymaker-webfont.eot");
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/haymaker/haymaker-webfont.eot?#iefix") format("embedded-opentype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/haymaker/haymaker-webfont.woff") format("woff"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/haymaker/haymaker-webfont.ttf") format("truetype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/haymaker/haymaker-webfont.svg#haymakerregular") format("svg");
+  font-family:"Times New Roman", Times, serif; 
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'mission_scriptregular';
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/mission/mission-script-webfont.eot");
-  src: url("https://dl.dropboxusercontent.com/u/6152966/fonts/mission/mission-script-webfont.eot?#iefix") format("embedded-opentype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/mission/mission-script-webfont.woff") format("woff"), url("../fonts/mission/mission-script-webfont.ttf") format("truetype"), url("https://dl.dropboxusercontent.com/u/6152966/fonts/mission/mission-script-webfont.svg#mission_scriptregular") format("svg");
+  font-family: "Comic Sans MS", cursive, sans-serif; 
   font-weight: normal;
   font-style: normal;
 }
